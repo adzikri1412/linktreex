@@ -59,7 +59,7 @@ const editableLinks = [
         title: "Donate",
         description: "Donate Byone",
         url: "https://saweria.co/xenzxsettingsx",
-        icon: "fas fa-saweria",
+        icon: "fas fa-donate",
         iconColor: "text-blue-300",
         active: true
         }
