@@ -58,7 +58,7 @@ const editableLinks = [
         id: 7,
         title: "Donate",
         description: "Donate Byone",
-        url: "https://saweria.co/xenzxsettingsx",
+        url: "https://sociabuzz.com/dziyxpterust/tribe",
         icon: "fas fa-donate",
         iconColor: "text-blue-300",
         active: true
