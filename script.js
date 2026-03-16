@@ -4,7 +4,7 @@ const editableLinks = [
         id: 1,
         title: "Our Product Website",
         description: "Visit my website",
-        url: "https://xentrixsensi.vercel.app/",
+        url: "https://xentrixoptimizer.vercel.app",
         icon: "fas fa-globe",
         iconColor: "text-blue-300",
         active: true
@@ -31,7 +31,7 @@ const editableLinks = [
         id: 4,
         title: "Instagram",
         description: "Official Account",
-        url: "https://www.instagram.com/xentrix_official",
+        url: "https://www.instagram.com/ghaziyinhere",
         icon: "fab fa-instagram",
         iconColor: "text-blue-300",
         active: true
@@ -53,7 +53,16 @@ const editableLinks = [
         icon: "fas fa-envelope",
         iconColor: "text-blue-300",
         active: true
-    }
+    },
+        {
+        id: 7,
+        title: "Donate",
+        description: "Donate Byone",
+        url: "https://saweria.co/xenzxsettingsx",
+        icon: "fas fa-saweria",
+        iconColor: "text-blue-300",
+        active: true
+        }
 ];
 
 // Fungsi untuk menampilkan link
